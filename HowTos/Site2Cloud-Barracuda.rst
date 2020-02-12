@@ -1,6 +1,6 @@
 .. meta::
    :description: Site2Cloud (Aviatrix Gateway - Barracuda Ng Firewall)
-   :keywords: Barracuda, aviatrix, site2cloud
+   :keywords: Barracuda, aviatrix, site2cloud, NG Firewall
 
 
 
